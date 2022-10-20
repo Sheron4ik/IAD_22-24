@@ -52,7 +52,11 @@ F_n=A
 Определите наименьшее расстояние между двумя локальными максимумами последовательности натуральных чисел, завершающейся числом 0. Локальным максимумом называется такое число в последовательности, которое больше своих соседей. Если в последовательности нет двух локальных максимумов, выведите число 0. Начальное и конечное значение при этом локальными максимумами не считаются.
 # X. Стандартное отклонение
 Дана последовательность натуральных чисел x1 x2 ..., xn. Стандартным отклонением называется величина
-!(https://official.contest.yandex.ru/testsys/tex/render/XHNpZ21hID0gXHNxcnR7XGZyYWN7KHhfMS1zKV4yKyh4XzItcyleMitcbGRvdHMrKHhfbi1zKV4yfXtuLTF9fQ==.png)
+
+![](https://official.contest.yandex.ru/testsys/tex/render/XHNpZ21hID0gXHNxcnR7XGZyYWN7KHhfMS1zKV4yKyh4XzItcyleMitcbGRvdHMrKHhfbi1zKV4yfXtuLTF9fQ==.png)
+
 где 
-!(https://official.contest.yandex.ru/testsys/tex/render/cz1cZnJhY3t4XzEreF8yK1xsZG90cyt4X259e259.png)
+
+![](https://official.contest.yandex.ru/testsys/tex/render/cz1cZnJhY3t4XzEreF8yK1xsZG90cyt4X259e259.png)
+
 среднее арифметическое последовательности. Определите стандартное отклонение для данной последовательности натуральных чисел, завершающейся числом 0.
